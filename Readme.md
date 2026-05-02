@@ -97,7 +97,7 @@ predict_image('/content/dataset/yes/Y1.jpg', vgg16, class_names)
 ![Loss Curve/Accuracy Curve](https://raw.githubusercontent.com/AmanuelDaget/Brain-Tumor-Detection-on-MRI-Using-Transfer-Learning-with-VGG16/main/Loss%20curve.png)
 
 - **Confusion Matrix**  
-![Confusion Matrix](https://raw.githubusercontent.com/AmanuelDaget/Brain-Tumor-Detection-on-MRI-Using-Transfer-Learning-with-VGG16/main/Confussion%20Matrix.png)
+![Confusion Matrix](https://raw.githubusercontent.com/AmanuelDaget/Brain-Tumor-Detection-on-MRI-Using-Transfer-Learning-with-VGG16/main/Cofussion%20Matrix.png)
   
 - **Classification Report** printed in notebook output
 
