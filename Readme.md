@@ -2,7 +2,7 @@
 
 A deep learning project for automatic classification of brain MRI images as **tumor** or **no tumor**. The solution leverages transfer learning with the VGG16 architecture using PyTorch. The pipeline features data preparation, augmentation, training, evaluation, and detailed result visualization.
 
-![Brain MRI Example](https://raw.githubusercontent.com/AmanuelDaget/Brain-Tumor-Detection-on-MRI-Using-Transfer-Learning-with-VGG16/main/BrainMri.png) <!-- <- Optional image placeholder -->
+![Brain MRI Example](https://raw.githubusercontent.com/AmanuelDaget/Brain-Tumor-Detection-on-MRI-Using-Transfer-Learning-with-VGG16/main/Y4.jpg) <!-- <- Optional image placeholder -->
 
 ---
 
