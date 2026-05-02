@@ -55,7 +55,7 @@ _Note: Place your dataset in Google Drive or local directory as above._
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/brain-tumor-detection-vgg16.git
+    git clone https://github.com/AmanuelDaget/brain-tumor-detection-vgg16.git
     cd brain-tumor-detection-vgg16
     ```
 
